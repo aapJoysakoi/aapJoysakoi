@@ -1,6 +1,6 @@
 # aapJoysakoi 
 
-### Hello! My name is Joysa Kaushik.
+### Hey there! My name's Joysa Kaushik.
 - I'm from India persuing a 5 year integrated course of B. Tech - M. Tech in computer Science and Engineering specializing in Cybersecurity in National Forensic Sciences University and this is my personal GitHub repository. 
 - Aspiring software developer who fell in love with coding during college. Starting with a foundation in C, C++, Java, I am constantly working to improve my skills and build projects that make a difference. Excited to collaborate with others and learn from experienced developers, I am actively seeking new opportunities to challenge myself and grow in this field.
 
@@ -10,7 +10,14 @@
 
 <div style="display: inline-block">
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
-    <img align="center" alt="Trident-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="center" alt="Joysa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  </a>
+  
+</div>
+
+<div style="display: inline-block">
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
+    <img align="center" alt="Joysa-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </a>
   
 </div>
