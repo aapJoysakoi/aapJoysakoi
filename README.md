@@ -1,40 +1,37 @@
 # aapJoysakoi 
 
 ### Hey there! My name's Joysa Kaushik.
-- I'm from India persuing a 5 year integrated course of B. Tech - M. Tech in computer Science and Engineering specializing in Cybersecurity in National Forensic Sciences University and this is my personal GitHub repository. 
+- I'm from India pursuing a 5-year integrated course of B. Tech - M. Tech in Computer Science and Engineering specializing in Cybersecurity at National Forensic Sciences University, and this is my personal GitHub repository. 
 - Aspiring software developer who fell in love with coding during college. Starting with a foundation in C, C++, Java, I am constantly working to improve my skills and build projects that make a difference. Excited to collaborate with others and learn from experienced developers, I am actively seeking new opportunities to challenge myself and grow in this field.
 
 ## Tech Stack
 
-### Language
+### Languages
 
 <div style="display: inline-block">
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img align="center" alt="Joysa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </a>
-  
 </div>
 
 <div style="display: inline-block">
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
-    <img align="center" alt="Joysa-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img align="center" alt="Joysa-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original.svg">
   </a>
-  
 </div>
 
 ### Framework
 
 <div style="display: inline-block">
-  <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
+  <a href="https://dotnet.microsoft.com/" target="_blank">
     <img align="center" alt="Trident-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   </a>
-  
 </div>
 
 ### Tools
 
 <div style="display: inline-block">
-  <a href="https://code.visualstudio.com/Docs" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </a>
 </div>
@@ -62,6 +59,8 @@
     <img alt="-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
+
+
 
 ```
 This was my brief overview on myself thanks for taking the time to visit my profile :)
