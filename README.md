@@ -1,8 +1,12 @@
 # aapJoysakoi 
 
-### Hey there! My name's Joysa Kaushik.
-- I'm from India pursuing a 5-year integrated course of B. Tech - M. Tech in Computer Science and Engineering specializing in Cybersecurity at National Forensic Sciences University, and this is my personal GitHub repository. 
-- Aspiring software developer who fell in love with coding during college. Starting with a foundation in C, C++, Java, I am constantly working to improve my skills and build projects that make a difference. Excited to collaborate with others and learn from experienced developers, I am actively seeking new opportunities to challenge myself and grow in this field.
+Hello, I'm Joysa Kaushik. I'm currently immersed in a 5-year integrated B.Tech - M.Tech program at the National Forensic Sciences University in India, specializing in Computer Science and Cybersecurity.
+
+- This GitHub repository serves as a digital canvas where I showcase my journey as a passionate coder. Starting with languages like C, C++, and Java, I've been building up my skills and working on projects that I'm passionate about.
+
+- One area that really fascinates me is cybersecurity and how it intersects with core CS subjects. It's like solving a puzzle with every line of code I write, making sure it's secure and robust.
+
+I'm all about learning and growing, and I love collaborating with others. If you're into coding or cybersecurity too, let's connect and explore together!
 
 ## Tech Stack
 
@@ -43,7 +47,7 @@
 </div>
 
 
-### Framework/Tool
+### Frameworks
 
 <div style="display: flex; align-items: center;">
   <a href="https://dotnet.microsoft.com/" target="_blank">
