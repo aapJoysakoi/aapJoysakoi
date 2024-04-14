@@ -8,33 +8,25 @@
 
 ### Languages
 
-<div style="display: inline-block">
+<div style="display: flex; align-items: center;">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img align="center" alt="Joysa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img alt="Joysa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </a>
-</div>
-
-<div style="display: inline-block">
+  
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img align="center" alt="Joysa-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="Joysa-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   </a>
-</div>
-
-<div style="display: inline-block">
+  
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-    <img align="center" alt="Joysa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img alt="Joysa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   </a>
-</div>
-
-<div style="display: inline-block">
+  
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-    <img align="center" alt="Joysa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img alt="Joysa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   </a>
-</div>
-
-<div style="display: inline-block">
+  
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-    <img align="center" alt="Joysa-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img alt="Joysa-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </a>
 </div>
 
