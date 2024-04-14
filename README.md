@@ -43,16 +43,14 @@
 </div>
 
 
-### Framework
+### Framework/Tool
 
 <div style="display: flex; align-items: center;">
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img alt="joysa-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   </a>
   
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
-    <img alt="DaVinci Resolve" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/davinci/davinci-original.svg">
-  </a>
+  <span>DaVinci Resolve</span>
 </div>
 
 
