@@ -1,30 +1,30 @@
-# <p align="center"> aap'Joysa'koi </p>
+# <p align="left"> aap'Joysa'koi </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2zVr6cu95nF6Ow/giphy.gif" alt="Hello, I'm Joysa Kaushik" width="300"/>
+<p align="left">
+  <img src="https://media.giphy.com/media/l3q2zVr6cu95nF6Ow/giphy.gif" alt="Joysa Kaushik" width="300"/>
 </p>
 
-<p align="center">
+<p align="left">
   <samp>Hello, I'm Joysa Kaushik. I'm currently immersed in a 5-year integrated B.Tech - M.Tech program at the National Forensic Sciences University in India, specializing in Computer Science and Cybersecurity.</samp>
 </p>
 
-<p align="center">
+<p align="left">
   <samp>This GitHub repository serves as a digital canvas where I showcase my journey as a passionate coder. Starting with languages like C, C++, and Java, I've been building up my skills and working on projects that I'm passionate about.</samp>
 </p>
 
-<p align="center">
+<p align="left">
   <samp>One area that really fascinates me is cybersecurity and how it intersects with core CS subjects. It's like solving a puzzle with every line of code I write, making sure it's secure and robust.</samp>
 </p>
 
-<p align="center">
+<p align="left">
   <samp>I'm all about learning and growing, and I love collaborating with others. If you're into coding or cybersecurity too, let's connect and explore together!</samp>
 </p>
 
-## <p align="center"> Tech Stack </p>
+## <p align="left"> Tech Stack </p>
 
-### <p align="center"> Languages </p>
+### <p align="left"> Languages </p>
 
-<div align="center">
+<div align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img alt="Joysa-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </a>
@@ -59,9 +59,9 @@
 </div>
 
 
-### <p align="center"> Frameworks </p>
+### <p align="left"> Frameworks </p>
 
-<div align="center">
+<div align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img alt="joysa-dotnet" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   </a>
@@ -70,9 +70,9 @@
 </div>
 
 
-### <p align="center"> Tools </p>
+### <p align="left"> Tools </p>
 
-<div align="center">
+<div align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="joysa-VS-Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </a>
@@ -86,16 +86,16 @@
   </a>
 </div>
 
-## <p align="center"> Stats </p>
+## <p align="left"> Stats </p>
 
-<p align="center">
+<p align="left">
   <img alt="aapJoysakoi's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=aapJoysakoi&show_icons=true&theme=transparent&hide_border=true">
   <img alt="aapJoysakoi's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=aapJoysakoi&show_icons=true&theme=transparent&hide_border=true&layout=compact">
 </p>
 
-## <p align="center"> Contact </p>
+## <p align="left"> Contact </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:joysaakaushik@gmail.com?subject=[GitHub]" target="_blank">
     <img alt="Joysa-Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
   </a>
