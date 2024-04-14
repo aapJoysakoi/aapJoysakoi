@@ -16,7 +16,7 @@
 
 <div style="display: inline-block">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img align="center" alt="Joysa-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original.svg">
+    <img align="center" alt="Joysa-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   </a>
 </div>
 
@@ -59,6 +59,8 @@
     <img alt="-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
+
+
 
 
 
