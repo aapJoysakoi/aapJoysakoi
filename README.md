@@ -28,7 +28,20 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
     <img alt="Joysa-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </a>
+
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
+    <img alt="Joysa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
+    <img alt="Joysa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
+    <img alt="Joysa-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  </a>
 </div>
+
 
 ### Framework
 
