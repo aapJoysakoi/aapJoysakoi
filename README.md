@@ -1,4 +1,4 @@
-# aapJoysakoi 
+# aap'Joysa'koi 
 
 Hello, I'm Joysa Kaushik. I'm currently immersed in a 5-year integrated B.Tech - M.Tech program at the National Forensic Sciences University in India, specializing in Computer Science and Cybersecurity.
 
@@ -87,13 +87,16 @@ I'm all about learning and growing, and I love collaborating with others. If you
   <a href="mailto:joysaakaushik@gmail.com?subject=[GitHub]" target="_blank">
     <img alt="Joysa-Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
   </a>
-  <a href="" target="_blank">
-    <img alt="-linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  
+  <a href="www.linkedin.com/in/joysa-kaushik" target="_blank">
+    <img alt="Joysa-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="" target="_blank">
-    <img alt="-X" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank">
+  
+  <a href="https://www.instagram.com/aap.joysa.koi" target="_blank">
+    <img alt="Joysa-Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="" target="_blank">
-    <img alt="-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  
+  <a href="https://twitter.com/aap_Joysa_koi" target="_blank">
+    <img alt="Joysa-Twitter" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
