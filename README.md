@@ -20,6 +20,24 @@
   </a>
 </div>
 
+<div style="display: inline-block">
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+    <img align="center" alt="Joysa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  </a>
+</div>
+
+<div style="display: inline-block">
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+    <img align="center" alt="Joysa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  </a>
+</div>
+
+<div style="display: inline-block">
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img align="center" alt="Joysa-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  </a>
+</div>
+
 ### Framework
 
 <div style="display: inline-block">
@@ -59,6 +77,8 @@
     <img alt="-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
+
+
 
 
 
