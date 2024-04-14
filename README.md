@@ -50,7 +50,7 @@
     <img alt="joysa-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   </a>
   
-  <span>DaVinci Resolve</span>
+
 </div>
 
 
