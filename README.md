@@ -47,17 +47,29 @@
 
 <div style="display: inline-block">
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img align="center" alt="Trident-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+    <img align="center" alt="joysa-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  </a>
+    <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
+    <img alt="DaVinci Resolve" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/davinci/davinci-original.svg">
   </a>
 </div>
+
 
 ### Tools
 
 <div style="display: inline-block">
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img align="center" alt="Trident-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="joysa-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </a>
 </div>
+
+  <a href="https://www.opengl.org/documentation/" target="_blank">
+    <img alt="joysa OpenGL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img alt="joysa Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  </a>
 
 ## Stats
 
