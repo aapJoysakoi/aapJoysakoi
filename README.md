@@ -45,11 +45,12 @@
 
 ### Framework
 
-<div style="display: inline-block">
+<div style="display: flex; align-items: center;">
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img align="center" alt="joysa-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+    <img alt="joysa-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   </a>
-    <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
+  
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
     <img alt="DaVinci Resolve" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/davinci/davinci-original.svg">
   </a>
 </div>
@@ -57,19 +58,19 @@
 
 ### Tools
 
-<div style="display: inline-block">
+<div style="display: flex; align-items: center;">
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img align="center" alt="joysa-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img alt="joysa-VS-Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </a>
-</div>
 
   <a href="https://www.opengl.org/documentation/" target="_blank">
-    <img alt="joysa OpenGL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
+    <img alt="joysa-OpenGL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
   </a>
 
   <a href="https://www.figma.com/" target="_blank">
-    <img alt="joysa Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img alt="joysa-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   </a>
+</div>
 
 ## Stats
 
@@ -94,16 +95,3 @@
     <img alt="-instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
-
-
-
-
-
-
-
-
-
-```
-This was my brief overview on myself thanks for taking the time to visit my profile :)
-I'm constantly working to improve my skills and knowledge, and I'm excited to see where this journey takes me!
-```
