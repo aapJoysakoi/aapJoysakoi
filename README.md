@@ -1,15 +1,6 @@
 # <p align="left"> aap'Joysa'koi </p>
 
 
-
-<p align="left">
-
- <img src="https://media.giphy.com/media/l3q2zVr6cu95nF6Ow/giphy.gif" alt="Joysa Kaushik" width="300"/>
-
-</p>
-
-
-
 <p align="left">
 
  <samp>Hello, I'm Joysa Kaushik. I'm currently immersed in a 5-year integrated B.Tech - M.Tech program at the National Forensic Sciences University in India, specializing in Computer Science and Cybersecurity.</samp>
