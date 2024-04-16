@@ -92,15 +92,21 @@
   <img alt="Joysa-Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
  </a>
 
- <a href="https://www.linkedin.com/in/joysa-kaushik" target="_blank"> <!-- Updated LinkedIn link -->
-  <img alt="Joysa-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a>
+ <span style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/joysa-kaushik" target="_blank">
+   <img alt="Joysa-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+ </span>
 
- <a href="https://www.instagram.com/aap.joysa.koi" target="_blank">
-  <img alt="Joysa-Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- </a>
+ <span style="display: inline-block;">
+  <a href="https://www.instagram.com/aap.joysa.koi" target="_blank">
+   <img alt="Joysa-Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ </span>
 
- <a href="https://twitter.com/aap_Joysa_koi" target="_blank">
-  <img alt="Joysa-Twitter" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
- </a>
+ <span style="display: inline-block;">
+  <a href="https://twitter.com/aap_Joysa_koi" target="_blank">
+   <img alt="Joysa-Twitter" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+ </span>
 </p>
