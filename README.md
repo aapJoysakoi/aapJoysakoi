@@ -25,29 +25,57 @@
   <img alt="Joysa-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
  </a>
 
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
+
  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img alt="Joysa-Cpp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
  </a>
+
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
 
  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
   <img alt="Joysa-HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  </a>
 
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
+
  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
   <img alt="Joysa-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
  </a>
+
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
 
  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
   <img alt="Joysa-JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  </a>
 
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
+
  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
   <img alt="Joysa-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  </a>
 
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
+
  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
   <img alt="Joysa-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
  </a>
+
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
 
  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
   <img alt="Joysa-CSharp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
@@ -69,9 +97,17 @@
   <img alt="joysa-VS-Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  </a>
 
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
+
  <a href="https://www.opengl.org/documentation/" target="_blank">
   <img alt="joysa-OpenGL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
  </a>
+
+ <span style="display: inline-block; vertical-align: middle;">
+  <img alt="dash" height="40" width="5" src="https://via.placeholder.com/5/0000FF/0000FF">
+ </span>
 
  <a href="https://www.figma.com/" target="_blank">
   <img alt="joysa-Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
