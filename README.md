@@ -26,7 +26,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
@@ -34,7 +34,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
@@ -42,7 +42,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
@@ -50,7 +50,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
@@ -58,7 +58,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
@@ -66,7 +66,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
@@ -74,7 +74,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
@@ -98,7 +98,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://www.opengl.org/documentation/" target="_blank">
@@ -106,7 +106,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/8/00008B/60">
  </span>
 
  <a href="https://www.figma.com/" target="_blank">
@@ -129,7 +129,7 @@
  </a>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/10/00008B/60">
  </span>
 
  <span style="display: inline-block;">
@@ -139,7 +139,7 @@
  </span>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/10/00008B/60">
  </span>
 
  <span style="display: inline-block;">
@@ -149,7 +149,7 @@
  </span>
 
  <span style="vertical-align: middle;">
-  <img class="dash" src="https://via.placeholder.com/8/FFC0CB/60">
+  <img class="dash" src="https://via.placeholder.com/10/00008B/60">
  </span>
 
  <span style="display: inline-block;">
@@ -158,4 +158,3 @@
   </a>
  </span>
 </p>
-
