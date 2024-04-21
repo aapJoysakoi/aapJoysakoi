@@ -21,28 +21,28 @@
 ### <p align="left"> Languages </p>
 
 <div align="left">
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+ <a href="https://www.iso.org/standard/74528.html" target="_blank">
   <img alt="Joysa-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
  </a>
- <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+ <a href="https://isocpp.org/" target="_blank">
   <img alt="Joysa-Cpp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
  </a>
- <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+ <a href="https://www.w3.org/standards/webdesign/htmlcss" target="_blank">
   <img alt="Joysa-HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  </a>
- <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+ <a href="https://www.w3.org/standards/webdesign/htmlcss" target="_blank">
   <img alt="Joysa-CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
  </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+ <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
   <img alt="Joysa-JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  </a>
- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
+ <a href="https://www.oracle.com/java/" target="_blank">
   <img alt="Joysa-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  </a>
- <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
+ <a href="https://www.python.org/" target="_blank">
   <img alt="Joysa-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
  </a>
- <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img alt="Joysa-CSharp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
  </a>
 </div>
