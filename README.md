@@ -70,7 +70,11 @@
  <a href="https://www.canva.com/" target="_blank">
   <img alt="joysa-Canva" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
  </a>
+ <a href="https://www.blender.org/" target="_blank">
+  <img alt="joysa-Blender" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+ </a>
 </div>
+
 
 
 ## <p align="left"> Stats </p>
