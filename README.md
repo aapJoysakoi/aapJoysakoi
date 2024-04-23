@@ -53,6 +53,9 @@
  <a href="https://dotnet.microsoft.com/" target="_blank">
   <img alt="joysa-dotnet" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
  </a>
+ <a href="https://hadoop.apache.org/docs/r3.3.1/" target="_blank">
+  <img alt="joysa-hadoop" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg">
+ </a>
 </div>
 
 ### <p align="left"> Tools </p>
@@ -75,37 +78,8 @@
  </a>
 </div>
 
-
-
 ## <p align="left"> Stats </p>
 
 <p align="left">
  <img alt="aapJoysakoi's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=aapJoysakoi&show_icons=true&theme=transparent&hide_border=true">
- <img alt="aapJoysakoi's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=aapJoysakoi&show_icons=true&theme=transparent&hide_border=true&layout=compact">
-</p>
-
-## <p align="left"> Contact </p>
-
-<p align="left">
- <a href="mailto:joysaakaushik@gmail.com?subject=[GitHub]" target="_blank">
-  <img alt="Joysa-Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank">
- </a>
-
-
-
-  <a href="https://www.linkedin.com/in/joysa-kaushik" target="_blank">
-   <img alt="Joysa-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
-
- <span style="display: inline-block;">
-  <a href="https://www.instagram.com/aap.joysa.koi" target="_blank">
-   <img alt="Joysa-Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-
- <span style="display: inline-block;">
-  <a href="https://twitter.com/aap_Joysa_koi" target="_blank">
-   <img alt="Joysa-Twitter" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
- </span>
-</p>
+ <img alt="aapJoysakoi's GitHub Stats" src="https://github
