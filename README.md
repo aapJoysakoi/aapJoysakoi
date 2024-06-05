@@ -80,6 +80,7 @@
 
 ## <p align="left"> Stats </p>
 
-<p align="left">
- <img alt="aapJoysakoi's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=aapJoysakoi&show_icons=true&theme=transparent&hide_border=true">
- <img alt="aapJoysakoi's GitHub Stats" src="https://github
+<div style="display: inline-block">
+  <img alt="aapJoysakoi's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api?username=aapJoysakoi&show_icons=true&theme=transparent&hide_border=true">
+  <img alt="aapJoysakoi's GitHub Stats" src="https://github-readme-stats-lake-seven-36.vercel.app/api/top-langs?username=aapJoysakoi&show_icons=true&theme=transparent&hide_border=true&layout=compact">
+</div>
